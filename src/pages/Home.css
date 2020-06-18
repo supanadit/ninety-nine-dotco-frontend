@@ -1,0 +1,37 @@
+.header {
+    overflow: hidden;
+    padding: 50px 50px 10px 50px;
+}
+
+.header img.left-logo {
+    float: left;
+}
+
+.header img.right-logo {
+    float: right;
+}
+
+.content {
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    padding: 50px 0;
+}
+
+.content div.content-description-box {
+    margin-right: 120px;
+    padding-top: 60px;
+    width: 500px;
+}
+
+.content span.content-title {
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.content div.content-description {
+    margin-top: 10px;
+    font-size: 14px;
+    margin-right: 60px;
+    text-align: justify;
+}

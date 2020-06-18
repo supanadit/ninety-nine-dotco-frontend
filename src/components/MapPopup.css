@@ -1,0 +1,81 @@
+.modal {
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.modal-main {
+    position: fixed;
+    background: white;
+    width: 60%;
+    height: auto;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.map img.map-image {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+
+.map img.map-marker {
+    top: 10%;
+    left: 40%;
+    position: absolute;
+}
+
+.display-block {
+    display: block;
+}
+
+.display-none {
+    display: none;
+}
+
+/* Property CSS */
+.status-information {
+    display: block;
+}
+
+.price-information {
+    margin: 30px 5px 0 5px;
+}
+
+.price-information b.real-price {
+    font-size: 25px;
+}
+
+.property-address {
+    margin: 30px 5px 0 5px;
+}
+
+.property-information {
+    margin: 30px 0 0 0;
+    padding: 0 5px;
+}
+
+.property-information div.property-icon {
+    display: inline;
+    margin-right: 6px;
+}
+
+.property-button {
+    margin: 15px 0;
+    padding: 14px 0;
+    background-color: #49bd80;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    display: block;
+    color: #fff;
+    width: 100%;
+}

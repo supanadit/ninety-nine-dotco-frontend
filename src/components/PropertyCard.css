@@ -1,0 +1,42 @@
+.PropertyCard {
+    width: 350px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    color: #000;
+    padding: 8px;
+    display: inline-block;
+}
+
+.status-information {
+    display: block;
+}
+
+.price-information {
+    margin: 30px 5px 0 5px;
+}
+
+.price-information b.real-price {
+    font-size: 25px;
+}
+
+.property-information {
+    margin: 20px 0 0 0;
+    padding: 0 5px;
+}
+
+.property-information div.property-icon {
+    display: inline;
+    margin-right: 6px;
+}
+
+.property-button {
+    margin: 15px 0;
+    padding: 14px 0;
+    background-color: #49bd80;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    display: block;
+    color: #fff;
+    width: 100%;
+}

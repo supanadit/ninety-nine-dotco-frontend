@@ -1,0 +1,8 @@
+.LabelRounded {
+    background-color: #49bd80;
+    padding: 5px 15px;
+    display: inline;
+    font-weight: normal;
+    border-radius: 20px;
+    color: #fff;
+}
