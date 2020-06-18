@@ -1,5 +1,7 @@
 ## Property Front End
 
+![Example](https://github.com/supanadit/ninety-nine-dotco-frontend/blob/master/examples/1.%20test%20FE.jpg)
+
 Projek ini hanyalah materi test interview di 99.co
 
 ## Quick Start
